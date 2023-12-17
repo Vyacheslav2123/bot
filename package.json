@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chunk": "^0.0.3",
+    "fs": "^0.0.1-security",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.6",
+    "telegraf": "^4.15.3"
+  }
+}
